@@ -16,5 +16,5 @@ Por favor, consulte a página oficial de suporte do Plex [Como faço para instal
 Se preferir [Vídeo Tutorial](https://www.youtube.com/watch?v=yMx-zJbaakI)<br>
 Onde baixar: [IPTV](https://github.com/Cigaras/IPTV.bundle)<br>
 
-######Lista base: http://pastebin.com/raw/SSBUfnjy
+######Based IPTV List: http://pastebin.com/raw/SSBUfnjy
 ######Official Plex Plugins: https://github.com/plexinc-plugins
