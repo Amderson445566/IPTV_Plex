@@ -9,7 +9,7 @@
 - [ ] Adulto
 
 ####O que é Plex? O que é IPTV?<br>
-Por favor, leia aqui: [Introdução Plex & IPTV](https://github.com/Cigaras/IPTV.bundle)<br><br>
+Por favor, leia aqui -em Inglês- [Introdução Plex & IPTV] (https://github.com/Cigaras/IPTV.bundle)<br><br>
 
 
 ####A fazer:
@@ -20,7 +20,7 @@ Por favor, leia aqui: [Introdução Plex & IPTV](https://github.com/Cigaras/IPTV
 
 
 ####Como colocar o plugin de IPTV no Plex?
-Por favor, consulte a página oficial de suporte do Plex [Como faço para instalar manualmente um canal/plugin?](https://support.plex.tv/hc/en-us/articles/201187656-How-do-I-manually-install-a-channel-)<br>
+Por favor, consulte a página oficial de suporte do Plex  -em Inglês- [Como faço para instalar manualmente um canal/plugin?](https://support.plex.tv/hc/en-us/articles/201187656-How-do-I-manually-install-a-channel-)<br>
 Se preferir [Vídeo Tutorial](https://www.youtube.com/watch?v=yMx-zJbaakI)<br>
 Onde baixar: [IPTV](https://github.com/Cigaras/IPTV.bundle)<br>
 
