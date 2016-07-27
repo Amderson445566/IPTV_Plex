@@ -1,5 +1,13 @@
 ##IPTV List for Plex Media Server [plugin IPTV](https://github.com/Cigaras/IPTV.bundle)
 
+####Quais tipos de canais a lista contém?
+- [x] Esportes
+- [x] TV Aberta
+- [x] Notícias
+- [x] Filmes
+- [ ] Desenhos 
+- [ ] Adulto
+
 ####O que é Plex? O que é IPTV?<br>
 Por favor, leia aqui: [Introdução Plex & IPTV](https://github.com/Cigaras/IPTV.bundle)<br><br>
 
