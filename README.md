@@ -12,7 +12,7 @@
 
 
 Lista - https://raw.githubusercontent.com/leuthier/IPTV_Plex/master/list_iptv_plex
-###### > A lista é e sempre será gratuita! Ajude-nos a mantê-la atualizada. :)
+###### > A lista é e sempre será gratuita! Ajude-nos a mantê-la atualizada. :)<br><br>
 
 ####Quais tipos de canais a lista contém?
 - [x] Esportes
@@ -23,7 +23,7 @@ Lista - https://raw.githubusercontent.com/leuthier/IPTV_Plex/master/list_iptv_pl
 - [x] Variedades
 - [x] 3D
 - [x] Desenhos
-- [ ] Adulto
+- [ ] Adulto<br><br>
 
 ####O que é Plex? O que é IPTV?<br>
 Por favor, leia aqui -em Inglês- [Introdução Plex & IPTV] (https://github.com/Cigaras/IPTV.bundle)<br><br>
@@ -33,16 +33,16 @@ Por favor, leia aqui -em Inglês- [Introdução Plex & IPTV] (https://github.com
 - [x] Corrigir os nomes dos canais
 - [x] Separar por Grupos/Categorias
 - [ ] Adicionar o Logo dos canais
-- [ ] Guia de Programação
+- [ ] Guia de Programação<br><br>
 
 
 ####Colocar o plugin de IPTV no Plex
 Por favor, consulte a página oficial de suporte do Plex  -em Inglês- [Como faço para instalar manualmente um canal/plugin?](https://support.plex.tv/hc/en-us/articles/201187656-How-do-I-manually-install-a-channel-)<br>
 Se preferir [Vídeo Tutorial](https://www.youtube.com/watch?v=yMx-zJbaakI)<br>
-Onde baixar: [IPTV](https://github.com/Cigaras/IPTV.bundle)<br>
+Onde baixar: [IPTV](https://github.com/Cigaras/IPTV.bundle)<br><br>
 
 ####Adicionar playlist no IPTV Channel
-Tutorial: http://imgur.com/a/YmAaX
+Tutorial: http://imgur.com/a/YmAaX<br><br>
 
 ######Based IPTV List: http://pastebin.com/raw/SSBUfnjy
 ######Official Plex Plugins: https://github.com/plexinc-plugins
