@@ -160,73 +160,73 @@ http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/367.ch
 http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/372.ch
 #EXTINF:0 tvg-id="Band News" group-title="Noticias", Record News
 http://v1.fabricahost.com.br:1935/tvguara/tvguara/live.m3u8
-#EXTINF:0 tvg-id="TNT" group-title="Filmes e Series - Mr Robot - LEG", TNT
+#EXTINF:0 tvg-id="TNT" group-title="Filmes e Series", TNT
 http://playmovetv.from-id.com:80/TNT/index.m3u8
-#EXTINF:0 tvg-id="TNT" group-title="Filmes e Series - Mr Robot - LEG", TNT
+#EXTINF:0 tvg-id="TNT" group-title="Filmes e Series", TNT
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
-#EXTINF:0 tvg-id="TNT Series - Mr Robot - LEG" group-title="Filmes e Series - Mr Robot - LEG", TNT Series - Mr Robot - LEG
+#EXTINF:0 tvg-id="TNT Series" group-title="Filmes e Series", TNT Series
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
-#EXTINF:0 tvg-id="HBO" group-title="Filmes e Series - Mr Robot - LEG", HBO
+#EXTINF:0 tvg-id="HBO" group-title="Filmes e Series", HBO
 http://playmovetv.from-id.com:80/HBO/index.m3u8
-#EXTINF:0 tvg-id="HBO 2" group-title="Filmes e Series - Mr Robot - LEG", HBO 2
+#EXTINF:0 tvg-id="HBO 2" group-title="Filmes e Series", HBO 2
 http://playmovetv.from-id.com:80/HBO2/index.m3u8
-#EXTINF:0 tvg-id="HBO 2" group-title="Filmes e Series - Mr Robot - LEG", HBO 2
+#EXTINF:0 tvg-id="HBO 2" group-title="Filmes e Series", HBO 2
 http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/364.ch
-#EXTINF:0 tvg-id="HBO Family" group-title="Filmes e Series - Mr Robot - LEG", HBO Family
+#EXTINF:0 tvg-id="HBO Family" group-title="Filmes e Series", HBO Family
 http://playmovetv.from-id.com:80/HBOfamily/index.m3u8
-#EXTINF:0 tvg-id="HBO Signature" group-title="Filmes e Series - Mr Robot - LEG", HBO Signature
+#EXTINF:0 tvg-id="HBO Signature" group-title="Filmes e Series", HBO Signature
 http://playmovetv.from-id.com:80/HBOsign/index.m3u8
-#EXTINF:0 tvg-id="HBO Signature" group-title="Filmes e Series - Mr Robot - LEG", HBO Signature
+#EXTINF:0 tvg-id="HBO Signature" group-title="Filmes e Series", HBO Signature
 http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/363.ch
-#EXTINF:0 tvg-id="HBO Plus" group-title="Filmes e Series - Mr Robot - LEG", HBO Plus
+#EXTINF:0 tvg-id="HBO Plus" group-title="Filmes e Series", HBO Plus
 http://playmovetv.from-id.com:80/HBOPlus/index.m3u8
-#EXTINF:0 tvg-id="Telecine Premium" group-title="Filmes e Series - Mr Robot - LEG", Telecine Premium
+#EXTINF:0 tvg-id="Telecine Premium" group-title="Filmes e Series", Telecine Premium
 http://playmovetv.from-id.com:80/TC2/index.m3u8
-#EXTINF:0 tvg-id="Telecine Action" group-title="Filmes e Series - Mr Robot - LEG", Telecine Action
+#EXTINF:0 tvg-id="Telecine Action" group-title="Filmes e Series", Telecine Action
 http://playmovetv.from-id.com:80/TC5/index.m3u8
-#EXTINF:0 tvg-id="Telecine Touch" group-title="Filmes e Series - Mr Robot - LEG", Telecine Touch
+#EXTINF:0 tvg-id="Telecine Touch" group-title="Filmes e Series", Telecine Touch
 http://playmovetv.from-id.com:80/TC3/index.m3u8
-#EXTINF:0 tvg-id="Telecine Fun" group-title="Filmes e Series - Mr Robot - LEG", Telecine Fun
+#EXTINF:0 tvg-id="Telecine Fun" group-title="Filmes e Series", Telecine Fun
 http://playmovetv.from-id.com:80/TC4/index.m3u8
-#EXTINF:0 tvg-id="Telecine Pipoca" group-title="Filmes e Series - Mr Robot - LEG", Telecine Pipoca
+#EXTINF:0 tvg-id="Telecine Pipoca" group-title="Filmes e Series", Telecine Pipoca
 http://playmovetv.from-id.com:80/TC6/index.m3u8
-#EXTINF:0 tvg-id="Universal Channel" group-title="Filmes e Series - Mr Robot - LEG", Universal Channel
+#EXTINF:0 tvg-id="Universal Channel" group-title="Filmes e Series", Universal Channel
 http://playmovetv.from-id.com:80/Universal/index.m3u8
-#EXTINF:0 tvg-id="Universal Channel" group-title="Filmes e Series - Mr Robot - LEG", Universal Channel
+#EXTINF:0 tvg-id="Universal Channel" group-title="Filmes e Series", Universal Channel
 http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/357.ch
-#EXTINF:0 tvg-id="Space" group-title="Filmes e Series - Mr Robot - LEG", Space
+#EXTINF:0 tvg-id="Space" group-title="Filmes e Series", Space
 http://playmovetv.from-id.com:80/Space/index.m3u8
-#EXTINF:0 tvg-id="Megapix" group-title="Filmes e Series - Mr Robot - LEG", Megapix
+#EXTINF:0 tvg-id="Megapix" group-title="Filmes e Series", Megapix
 http://31.204.152.6:8081/live/megapix/playlist.m3u8
-#EXTINF:0 tvg-id="MAX" group-title="Filmes e Series - Mr Robot - LEG", MAX
+#EXTINF:0 tvg-id="MAX" group-title="Filmes e Series", MAX
 http://playmovetv.from-id.com:80/max/index.m3u8
-#EXTINF:0 tvg-id="Max Prime" group-title="Filmes e Series - Mr Robot - LEG", Max Prime
+#EXTINF:0 tvg-id="Max Prime" group-title="Filmes e Series", Max Prime
 http://playmovetv.from-id.com:80/MaxPrime/index.m3u8
-#EXTINF:0 tvg-id="Max Prime" group-title="Filmes e Series - Mr Robot - LEG", Max Prime
+#EXTINF:0 tvg-id="Max Prime" group-title="Filmes e Series", Max Prime
 http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/380.ch
-#EXTINF:0 tvg-id="Max UP" group-title="Filmes e Series - Mr Robot - LEG", Max UP
+#EXTINF:0 tvg-id="Max UP" group-title="Filmes e Series", Max UP
 http://playmovetv.from-id.com:80/MaxUp/index.m3u8
-#EXTINF:0 tvg-id="AXN" group-title="Filmes e Series - Mr Robot - LEG", AXN
+#EXTINF:0 tvg-id="AXN" group-title="Filmes e Series", AXN
 http://playmovetv.from-id.com:80/AXN/index.m3u8
-#EXTINF:0 tvg-id="AXN" group-title="Filmes e Series - Mr Robot - LEG", AXN
+#EXTINF:0 tvg-id="AXN" group-title="Filmes e Series", AXN
 http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/373.ch
-#EXTINF:0 tvg-id="AXN White"  group-title="Filmes e Series - Mr Robot - LEG", AXN White
+#EXTINF:0 tvg-id="AXN White"  group-title="Filmes e Series", AXN White
 http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/883.ts
-#EXTINF:0 tvg-id="AXN White"  group-title="Filmes e Series - Mr Robot - LEG", AXN White
+#EXTINF:0 tvg-id="AXN White"  group-title="Filmes e Series", AXN White
 http://94.23.193.185:8000/mmans100/mmans100/2191
-#EXTINF:0 tvg-id="Warner TV" group-title="Filmes e Series - Mr Robot - LEG", Warner TV
+#EXTINF:0 tvg-id="Warner TV" group-title="Filmes e Series", Warner TV
 http://playmovetv.from-id.com:80/Warner/index.m3u8
-#EXTINF:0 tvg-id="FOX" group-title="Filmes e Series - Mr Robot - LEG", FOX
+#EXTINF:0 tvg-id="FOX" group-title="Filmes e Series", FOX
 http://playmovetv.from-id.com:80/FOX/index.m3u8
-#EXTINF:0 tvg-id="FOX Movies HD"  group-title="Filmes e Series - Mr Robot - LEG", FOX Movies HD
+#EXTINF:0 tvg-id="FOX Movies HD"  group-title="Filmes e Series", FOX Movies HD
 http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/1182.ts
-#EXTINF:0 tvg-id="Canal Hollywood" group-title="Filmes e Series - Mr Robot - LEG" tvg-logo="http://www.markify.com/images/ctm/originals/014637953.JPG", Canal Hollywood
+#EXTINF:0 tvg-id="Canal Hollywood" group-title="Filmes e Series" tvg-logo="http://www.markify.com/images/ctm/originals/014637953.JPG", Canal Hollywood
 http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/889.ts
-#EXTINF:0 tvg-id="AMC" group-title="Filmes e Series - Mr Robot - LEG", AMC
+#EXTINF:0 tvg-id="AMC" group-title="Filmes e Series", AMC
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE03.m3u8
-#EXTINF:0 tvg-id="AMC" group-title="Filmes e Series - Mr Robot - LEG", AMC
+#EXTINF:0 tvg-id="AMC" group-title="Filmes e Series", AMC
 http://94.23.193.185:8000/mmans100/mmans100/2312
-#EXTINF:0 tvg-id="CinemaTvPlay" group-title="Filmes e Series - Mr Robot - LEG", CinemaTvPlay
+#EXTINF:0 tvg-id="CinemaTvPlay" group-title="Filmes e Series", CinemaTvPlay
 http://servicioamerica.net:1935/cinematvplays/cinematvplays/chunklist_w1995939705.m3u8?token=yfU+kLqLqfZ31Yx5RgwFWADDQsAtzsn0JyAjDqCTXxRwvMGtx37LIVQo4lZqfP3TwZ6g0fs9MPq379+5bsFQ2fbTCNgZfX+5b3kujpkuCEOWlgC8Va2VBSkeUQLrGWnubuXDVIfwcmiXQA9Bp%2F%2FCePR8oSp3rXvGlAZnJRHEhps%3D%7CJu5jp+owWgLfUUCUo40DFq11rtqgA03rE0tVrZWyNss%3D.m3u8
 #EXTINF:0 tvg-id="FX" group-title="Variedades", FX
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL258/PROFILE03.m3u8
