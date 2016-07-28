@@ -21,7 +21,6 @@ Lista - https://raw.githubusercontent.com/leuthier/IPTV_Plex/master/list_iptv_pl
 - [x] Variedades
 - [x] 3D
 - [x] Desenhos
-- [x] Lançamentos
 - [ ] Adulto
 
 ####O que é Plex? O que é IPTV?<br>
