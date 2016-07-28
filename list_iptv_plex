@@ -1,271 +1,264 @@
 #EXTM3U
- Test
+#EXTINF:0 Teste
 http://163.172.40.9:25461//streaming/clients_live.php?username=karimos.sat&password=idndigdgdg&stream=1611&extension=ts&hash=e1a1d8516e7dd51cb69472a6f19b883a&time=1469406546&pid=11601&external_device=&on_demand=0
-  tvg-logo="http://auvaromaia.com/wp-content/uploads/2016/01/PFC-.jpg" , Teste PFC
+#EXTINF:0 tvg-id="Premiere Futebol Clube" tvg-logo="http://auvaromaia.com/wp-content/uploads/2016/01/PFC-.jpg" , Teste PFC
 http://falcon.ss-uk.ftgrm.me/pfc1/index_1800_av-b.m3u8
- tvg-name="HD Media 3D"
+#EXTINF:0 tvg-id="HD Media 3D" group-title="3D", HD Media 3D
 http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
- Anyday HD 3D
+#EXTINF:0 tvg-id="Anyday HD 3D" group-title="3D", Anyday HD 3D
 http://streamer1.cdn.3dsmart.tv/hls/anyday.tv.3d/stream.m3u8
- Mute HD 3D
+#EXTINF:0 tvg-id="Mute HD 3D" group-title="3D", Mute HD 3D
 http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.3d/stream.m3u8
- Glazella HD 3D
+#EXTINF:0 tvg-id="Glazella HD 3D" group-title="3D", Glazella HD 3D
 http://streamer1.cdn.3dsmart.tv/hls/glazella.tv.3d/stream.m3u8
- Canais FilmOn
-http://voddownload01.video.globo.com/v0/0e/f3/d0/5013949_d0414a4da0b9bacda59f2d182d44fcdff59aa445/5013949-web360.mp4?h=0502461865951845045864874618659638192435244067DwStopMJnKZoiDt4KN4A&k=ads
-  tvg-logo="https://i.ytimg.com/vi/KT3lXHZdX00/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JJGJBrk_tAc9ys_gE1z6U2MbiVI" , CinemaTvPlay
-http://servicioamerica.net:1935/cinematvplays/cinematvplays/chunklist_w1995939705.m3u8?token=yfU+kLqLqfZ31Yx5RgwFWADDQsAtzsn0JyAjDqCTXxRwvMGtx37LIVQo4lZqfP3TwZ6g0fs9MPq379+5bsFQ2fbTCNgZfX+5b3kujpkuCEOWlgC8Va2VBSkeUQLrGWnubuXDVIfwcmiXQA9Bp%2F%2FCePR8oSp3rXvGlAZnJRHEhps%3D%7CJu5jp+owWgLfUUCUo40DFq11rtqgA03rE0tVrZWyNss%3D.m3u8
-  tvg-name="CBN"
-http://media.sgr.globo.com:1935/VideoCBN/cbnrj1.sdp/live.m3u8
- tvg-name="Universal Channel"
-http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/357.ch
-  tvg-name="SporTV 2"
-http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/358.ch
-tvg-id="2571", tvg-name="SBT HD"
-http://gbbrlive2.sambatech.com.br/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/playlist.m3u8
-tvg-name="Globo"
-http://31.204.153.115:8081/live/sptvk/playlist.m3u8
-tvg-name="Globo"
-http://31.204.153.115:8081/live/globok/playlist.m3u8
-   tvg-name="Record"
-http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/359.ch
-  tvg-name="SporTV 2"
-http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/360.ch
-  tvg-name="Premiere"
-http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/361.ch
-  tvg-name="Premiere"
-http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/362.ch
-  tvg-name="HBO Signature"
-http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/363.ch
-  tvg-name="HBO 2"
-http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/364.ch
-  tvg-name="Globo"
-http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/365.ch
-  tvg-name="RBS TV"
-http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/366.ch
-  tvg-name="Globo News"
-http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/367.ch
-  tvg-name="Fox Sports 2"
-http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/368.ch
-  tvg-name="ESPN Brasil"
-http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/369.ch
-  tvg-name="ESPN Brasil"
-http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/370.ch
-  tvg-name="Band Sports"
-http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/371.ch
-  tvg-name="Band News"
-http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/372.ch
-  tvg-name="AXN"
-http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/373.ch
-  tvg-name="Max Prime"
-http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/380.ch
- tvg-name="Fox Sports"
-http://playmovetv.from-id.com:80/FoxSports/index.m3u8
- tvg-name="Fox Sports 2"
-http://playmovetv.from-id.com:80/FoxSport2/index.m3u8
- tvg-name="SporTV"
-http://playmovetv.from-id.com:80/SportTV/index.m3u8
- tvg-name="SporTV 2"
-http://playmovetv.from-id.com:80/SportTV2/index.m3u8
- tvg-name="SporTV 3"
-http://playmovetv.from-id.com:80/Sporttv3/index.m3u8
-  tvg-name="Combate"
+#EXTINF:0 tvg-id="Combate" group-title="Esporte", Combate
 http://playmovetv.from-id.com:80/Combate/index.m3u8
- tvg-name="PFC"
-http://playmovetv.from-id.com:80/Premiere7/index.m3u8
- tvg-name="PFC"
-http://playmovetv.from-id.com:80/Premiere5/index.m3u8
-  tvg-name="PFC"
-http://playmovetv.from-id.com:80/Premiereclubes/index.m3u8
-  tvg-name="PFC 3"
-http://playmovetv.from-id.com:80/Premiere3/index.m3u8
-  tvg-name="PFC 8"
-http://playmovetv.from-id.com:80/Premiere8/index.m3u8
- tvg-name="PFC 6"
-http://playmovetv.from-id.com:80/Premiere6/index.m3u8
- tvg-name="Canal OFF"
-http://playmovetv.from-id.com:80/OFF/index.m3u8
- tvg-name="TNT"
-http://playmovetv.from-id.com:80/TNT/index.m3u8
- tvg-name="HBO"
-http://playmovetv.from-id.com:80/HBO/index.m3u8
- tvg-name="HBO 2"
-http://playmovetv.from-id.com:80/HBO2/index.m3u8
- tvg-name="HBO Family"
-http://playmovetv.from-id.com:80/HBOfamily/index.m3u8
- tvg-name="HBO Signature"
-http://playmovetv.from-id.com:80/HBOsign/index.m3u8
- tvg-name="HBO Plus"
-http://playmovetv.from-id.com:80/HBOPlus/index.m3u8
- tvg-name="Telecine Premium"
-http://playmovetv.from-id.com:80/TC2/index.m3u8
- tvg-name="Telecine Action"
-http://playmovetv.from-id.com:80/TC5/index.m3u8
- tvg-name="Telecine Touch"
-http://playmovetv.from-id.com:80/TC3/index.m3u8
- tvg-name="Telecine Fun"
-http://playmovetv.from-id.com:80/TC4/index.m3u8
- tvg-name="Telecine Pipoca"
-http://playmovetv.from-id.com:80/TC6/index.m3u8
-  tvg-name="Universal Channel"
-http://playmovetv.from-id.com:80/Universal/index.m3u8
- tvg-name="Space"
-http://playmovetv.from-id.com:80/Space/index.m3u8
- tvg-name="Max Prime"
-http://playmovetv.from-id.com:80/MaxPrime/index.m3u8
- tvg-name="Max UP"
-http://playmovetv.from-id.com:80/MaxUp/index.m3u8
- tvg-name="MAX"
-http://playmovetv.from-id.com:80/max/index.m3u8
- tvg-name="AXN"
-http://playmovetv.from-id.com:80/AXN/index.m3u8
- tvg-name="Warner TV"
-http://playmovetv.from-id.com:80/Warner/index.m3u8
- tvg-name="FOX"
-http://playmovetv.from-id.com:80/FOX/index.m3u8
- tvg-name="FX"
-http://playmovetv.from-id.com:80/FX/index.m3u8
-  tvg-name="Premiere"
-http://art.nextv.ca/nextv/pfci/index.m3u8
-  tvg-name="SporTV"
-http://31.204.153.115:8081/live/sportv/playlist.m3u8
-  tvg-name="SporTV 2"
-http://31.204.153.115:8081/live/sportv2/playlist.m3u8
-  tvg-name="ESPN Brasil"
-http://31.204.153.115:8081/live/espnbr/playlist.m3u8
-  tvg-name="Fox Sports"
-http://31.204.153.115:8081/live/foxsport/playlist.m3u8
-  tvg-name="SporTV 2" 
-http://31.204.152.6:8081/live/sportv2/playlist.m3u8
-  tvg-name="Fox Sports" 
-http://213.163.65.9:8081/live/foxsportk/playlist.m3u8
-  tvg-name="ESPN Brasil" 
-http://213.163.65.9:8081/live/espnbrz/playlist.m3u8
-  tvg-name="Combate" 
+#EXTINF:0 tvg-id="Combate" group-title="Esporte", Combate
 http://213.163.65.9:8081/live/combatez/playlist.m3u8
-  tvg-name="Band Sports" 
-http://evp.mm.uol.com.br:1935/geob_terraviva//operadoras/looktvs.m3u8
-  tvg-name="Band Sports" 
-http://evp.mm.uol.com.br:1935/geob_terraviva//operadoras/Anderson_Elias.m3u8
-  tvg-name="Band Sports" 
-http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8
-  tvg-name="Esporte Interativo" 
-http://ei.frankfurt.eiplus.com.br/live/smil:Evento1.smil/chunklist_b1088000.m3u8
-  tvg-name="EI MAXX" 
-http://ei.frankfurt.eiplus.com.br/live/evento3.stream_480p/chunklist.m3u8
-  tvg-name="EI Maxx" 
-http://ei.frankfurt.eiplus.com.br/live/smil:Evento3.smil/chunklist_b1564000.m3u8
- tvg-name="EI Maxx" 
-http://ss-bsas.eiplus.com.br/live/smil:Evento3.smil/chunklist_b978000.m3u8
- tvg-name="EI Maxx 2" 
-http://ss-bsas.eiplus.com.br/live/smil:Evento2.smil/chunklist_b978000.m3u8
- tvg-name="EI Maxx 2" 
-http://ei.frankfurt.eiplus.com.br/live/smil:Evento2.smil/chunklist_b1088000.m3u8
-  tvg-name="Amazon Sat" 
-http://gbbrlive2.sambatech.com.br:80/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/live.m3u8
-  tvg-name="Globo Premium", tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png"
-http://ptbrvirtual.no-ip.net:8000/live/iptvwordline@gmail.com/vslQGgoOWA/655.ts
-  tvg-name="Globo Premium", tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png"
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/1024.ts
-  tvg-name="Globo Premium" ,tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png"
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/1024.ts
-  tvg-name="Fox"
-http://31.204.152.6:8081/live/fox/playlist.m3u8
-  tvg-name="Megapix"
-http://31.204.152.6:8081/live/megapix/playlist.m3u8
-  tvg-name="SBT HD"
-http://gbbrlive2.sambatech.com.br/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/playlist.m3u8
-  tvg-name="Globo"
-http://31.204.153.115:8081/live/sptvk/playlist.m3u8
-  tvg-name="SPORT.TV1"
+#EXTINF:0 tvg-id="SporTV" group-title="Esporte", SporTV
+http://playmovetv.from-id.com:80/SportTV/index.m3u8
+#EXTINF:0 tvg-id="SporTV" group-title="Esporte", SporTV
+http://31.204.153.115:8081/live/sportv/playlist.m3u8
+#EXTINF:0 tvg-id="SPORT.TV1" group-title="Esporte", SporTV
 http://iptv.ndasat.com:88/live/MiMo/MiMo/64.ts
-  tvg-name="SPORT.TV1"
+#EXTINF:0 tvg-id="SPORT.TV1" group-title="Esporte", SporTV
 http://163.172.33.203:6969/live/bgch/hgfdsa/160.ts
-  tvg-name="SPORT.TV1"
+#EXTINF:0 tvg-id="SPORT.TV1" group-title="Esporte", SporTV
 http://ipro.newtvhd.com:8789/live/karimos/test/320.ts
-  tvg-name="SPORT.TV1" 
+#EXTINF:0 tvg-id="SPORT.TV1" group-title="Esporte", SporTV
 http://1sn.ns1.name:18800/live/karimos.sat/idndigdgdg/211.ts
-  tvg-name="SPORT.TV1" 
+#EXTINF:0 tvg-id="SPORT.TV1" group-title="Esporte", SporTV
 http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/878.ts
-  tvg-name="SPORT.TV2" 
+#EXTINF:0 tvg-id="SporTV 2" group-title="Esporte", SporTV 2
+http://31.204.153.115:8081/live/sportv2/playlist.m3u8
+#EXTINF:0 tvg-id="SporTV 2" group-title="Esporte", SporTV 2
+http://31.204.152.6:8081/live/sportv2/playlist.m3u8
+#EXTINF:0 tvg-id="SPORT.TV2" group-title="Esporte", SporTV 2
 http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/503.ts
-  tvg-name="SPORT.TV3"
+#EXTINF:0 tvg-id="SporTV 2" group-title="Esporte", SporTV 2
+http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/358.ch
+#EXTINF:0 tvg-id="SporTV 2" group-title="Esporte", SporTV 2
+http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/360.ch
+#EXTINF:0 tvg-id="SporTV 2" group-title="Esporte", SporTV 2
+http://playmovetv.from-id.com:80/SportTV2/index.m3u8
+#EXTINF:0 tvg-id="SporTV 3" group-title="Esporte", SporTV 3
+http://playmovetv.from-id.com:80/Sporttv3/index.m3u8
+#EXTINF:0 tvg-id="SPORT.TV3" group-title="Esporte", SporTV 3
 http://94.23.193.185:8000/mmans100/mmans100/1629
-  tvg-name="SPORT.TV4"
+#EXTINF:0 tvg-id="SPORT.TV4" group-title="Esporte", SporTV 4
 http://94.23.193.185:8000/mmans100/mmans100/1630
-  tvg-name="SPORT.TV5"
+#EXTINF:0 tvg-id="SPORT.TV5" group-title="Esporte", SporTV 5
 http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/898.ts
-  tvg-name="AXN White" 
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/883.ts
-  tvg-name="AMC"
-http://94.23.193.185:8000/mmans100/mmans100/2312
-  tvg-name="Fox HD"
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/887.ts
-  tvg-name="Fox Movies HD" 
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/1182.ts
-  tvg-name="Canal Hollywood" tvg-logo="http://www.markify.com/images/ctm/originals/014637953.JPG"
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/889.ts
-  tvg-name="movHD" 
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/1200.ts
-  tvg-name="cine mundo" 
-http://94.23.193.185:8000/mmans100/mmans100/2304
-  tvg-name="Discovery Channel"
-http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1164.ts
-  tvg-name="Nat Geo WILD"
-http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/1195.ts
-  tvg-name="AXN White" 
-http://94.23.193.185:8000/mmans100/mmans100/2191
-  tvg-name="Fox HD" 
-http://94.23.193.185:8000/mmans100/mmans100/2190
-  tvg-name="NatGeo Wild"
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
-  tvg-name="Discovery World"
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
-  tvg-name="Discovery Channel"
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
-  tvg-name="Animal Planet" 
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
-  tvg-name="Discovery Theater HD" 
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
-  tvg-name="History" 
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
-  tvg-name="TLC"
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
-  tvg-name="Tooncast"
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
-  tvg-name="AMC" , 
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE03.m3u8
-  tvg-name="TNT" , 
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
-  tvg-name="TNT Series"
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
-  tvg-name="FX"
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL258/PROFILE03.m3u8
-  tvg-name="Comedy Central"
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
-  tvg-name="TBS Very Funny"
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
-  tvg-name="Fox Sports"
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
-  tvg-name="ESPN"
-http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
-  tvg-name="Sky Sport 1 HD"
-http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/282.ts
- tvg-name="Sky Sports 3"
-http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/264.ts
-  tvg-name="Sky Cinema HD"
-http://94.23.193.185:8000/mmans100/mmans100/1198
-  tvg-name="Sky Cinema 1"
-http://94.23.193.185:8000/mmans100/mmans100/582
-  tvg-name="Sky Uno HD"
-http://94.23.193.185:8000/mmans100/mmans100/1196
-  tvg-name="Sky Cult HD"
-http://94.23.193.185:8000/mmans100/mmans100/1199
-  tvg-name="Sky TG 24"
-http://1speed.dyndns.tv:8000/live/eros/eros/202.ts
-  tvg-name="Premiere"
+#EXTINF:0 tvg-id="Premiere" group-title="Esporte", Premiere
+http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/361.ch
+#EXTINF:0 tvg-id="Premiere" group-title="Esporte", Premiere
+http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/362.ch
+#EXTINF:0 tvg-id="Premiere" group-title="Esporte", Premiere
 http://s.glbimg.com/vi/lo/stream_700/playlist.m3u8
-  tvg-name="Premiere"
+#EXTINF:0 tvg-id="Premiere" group-title="Esporte", Premiere
 http://s.glbimg.com/vi/lo/stream_1800/playlist.m3u8
-  tvg-name="Premiere"
+#EXTINF:0 tvg-id="Premiere" group-title="Esporte", Premiere
 http://s.glbimg.com/vi/lo/stream_2500/playlist.m3u8
+#EXTINF:0 tvg-id="Premiere" group-title="Esporte", Premiere
+http://art.nextv.ca/nextv/pfci/index.m3u8
+#EXTINF:0 tvg-id="PFC" group-title="Esporte", PFC
+http://playmovetv.from-id.com:80/Premiere7/index.m3u8
+#EXTINF:0 tvg-id="PFC" group-title="Esporte", PFC
+http://playmovetv.from-id.com:80/Premiere5/index.m3u8
+#EXTINF:0 tvg-id="PFC" group-title="Esporte", PFC
+http://playmovetv.from-id.com:80/Premiereclubes/index.m3u8
+#EXTINF:0 tvg-id="PFC 3" group-title="Esporte", PFC 3
+http://playmovetv.from-id.com:80/Premiere3/index.m3u8
+#EXTINF:0 tvg-id="PFC 8" group-title="Esporte", PFC 8
+http://playmovetv.from-id.com:80/Premiere8/index.m3u8
+#EXTINF:0 tvg-id="PFC 6" group-title="Esporte", PFC 6
+http://playmovetv.from-id.com:80/Premiere6/index.m3u8
+#EXTINF:0 tvg-id="ESPN" group-title="Esporte", ESPN
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
+#EXTINF:0 tvg-id="ESPN Brasil" group-title="Esporte", ESPN Brasil
+http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/369.ch
+#EXTINF:0 tvg-id="ESPN Brasil" group-title="Esporte", ESPN Brasil
+http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/370.ch
+#EXTINF:0 tvg-id="ESPN Brasil" group-title="Esporte", ESPN Brasil
+http://31.204.153.115:8081/live/espnbr/playlist.m3u8
+#EXTINF:0 tvg-id="ESPN Brasil" group-title="Esporte", ESPN Brasil
+http://213.163.65.9:8081/live/espnbrz/playlist.m3u8
+#EXTINF:0 tvg-id="Fox Sports" group-title="Esporte", Fox Sports
+http://playmovetv.from-id.com:80/FoxSports/index.m3u8
+#EXTINF:0 tvg-id="Fox Sports" group-title="Esporte", Fox Sports
+http://31.204.153.115:8081/live/foxsport/playlist.m3u8
+#EXTINF:0 tvg-id="Fox Sports" group-title="Esporte", Fox Sports
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
+#EXTINF:0 tvg-id="Fox Sports" group-title="Esporte", Fox Sports
+http://213.163.65.9:8081/live/foxsportk/playlist.m3u8
+#EXTINF:0 tvg-id="Fox Sports 2" group-title="Esporte", Fox Sports 2
+http://playmovetv.from-id.com:80/FoxSport2/index.m3u8
+#EXTINF:0 tvg-id="Fox Sports 2" group-title="Esporte", Fox Sports 2
+http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/368.ch
+#EXTINF:0 tvg-id="Band Sports" group-title="Esporte", Band Sports
+http://evp.mm.uol.com.br:1935/geob_terraviva//operadoras/looktvs.m3u8
+#EXTINF:0 tvg-id="Band Sports" group-title="Esporte", Band Sports
+http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/371.ch
+#EXTINF:0 tvg-id="Band Sports" group-title="Esporte", Band Sports
+http://evp.mm.uol.com.br:1935/geob_terraviva//operadoras/Anderson_Elias.m3u8
+#EXTINF:0 tvg-id="Band Sports" group-title="Esporte", Band Sports
+http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8
+#EXTINF:0 tvg-id="Esporte Interativo" group-title="Esporte", Esporte Interativo
+http://ei.frankfurt.eiplus.com.br/live/smil:Evento1.smil/chunklist_b1088000.m3u8
+#EXTINF:0 tvg-id="EI Maxx" group-title="Esporte", EI Maxx
+http://ei.frankfurt.eiplus.com.br/live/evento3.stream_480p/chunklist.m3u8
+#EXTINF:0 tvg-id="EI Maxx" group-title="Esporte", EI Maxx
+http://ei.frankfurt.eiplus.com.br/live/smil:Evento3.smil/chunklist_b1564000.m3u8
+#EXTINF:0 tvg-id="EI Maxx" group-title="Esporte", EI Maxx
+http://ss-bsas.eiplus.com.br/live/smil:Evento3.smil/chunklist_b978000.m3u8
+#EXTINF:0 tvg-id="EI Maxx 2" group-title="Esporte", EI Maxx 2
+http://ss-bsas.eiplus.com.br/live/smil:Evento2.smil/chunklist_b978000.m3u8
+#EXTINF:0 tvg-id="EI Maxx 2" group-title="Esporte", EI Maxx 2 
+http://ei.frankfurt.eiplus.com.br/live/smil:Evento2.smil/chunklist_b1088000.m3u8
+#EXTINF:0 tvg-id="SKY Sports 1 HD" group-title="Esporte", SKY Sports 1 HD
+http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/282.ts
+#EXTINF:0 tvg-id="SKY Sports 3" group-title="Esporte", SKY Sports 3
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/264.ts
+#EXTINF:0 tvg-id="Canal OFF" group-title="Esporte", Canal OFF
+http://playmovetv.from-id.com:80/OFF/index.m3u8
+#EXTINF:0 tvg-id="SBT HD" group-title="TV Aberta BR", SBT HD
+http://gbbrlive2.sambatech.com.br/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="TV Globo" group-title="TV Aberta BR", Globo
+http://ptbrvirtual.no-ip.net:8000/live/iptvwordline@gmail.com/vslQGgoOWA/655.ts
+#EXTINF:0 tvg-id="Globo" group-title="TV Aberta BR", Globo
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/1024.ts
+#EXTINF:0 tvg-id="Globo" group-title="TV Aberta BR", Globo
+http://31.204.153.115:8081/live/sptvk/playlist.m3u8
+#EXTINF:0 tvg-id="Globo" group-title="TV Aberta BR", Globo
+http://31.204.153.115:8081/live/globok/playlist.m3u8
+#EXTINF:0 tvg-id="Globo" group-title="TV Aberta BR", Globo
+http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/365.ch
+#EXTINF:0 tvg-id="Globo" group-title="TV Aberta BR", Globo
+http://31.204.153.115:8081/live/sptvk/playlist.m3u8
+#EXTINF:0 tvg-id="RBS TV" group-title="TV Aberta BR", RBS TV 
+http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/366.ch
+#EXTINF:0 tvg-id="Record" group-title="TV Aberta BR", Record
+http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/359.ch
+
+#EXTINF:0 tvg-id="CBN" group-title="Noticias", CBN
+http://media.sgr.globo.com:1935/VideoCBN/cbnrj1.sdp/live.m3u8
+#EXTINF:0 tvg-id="Globo News" group-title="Noticias", Globo News
+http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/367.ch
+#EXTINF:0 tvg-id="Band News" group-title="Noticias", Band News
+http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/372.ch
+
+#EXTINF:0 tvg-id="TNT" group-title="Filmes e Series", TNT
+http://playmovetv.from-id.com:80/TNT/index.m3u8
+#EXTINF:0 tvg-id="TNT" group-title="Filmes e Series", TNT
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
+#EXTINF:0 tvg-id="TNT Series" group-title="Filmes e Series", TNT Series
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
+#EXTINF:0 tvg-id="HBO" group-title="Filmes e Series", HBO
+http://playmovetv.from-id.com:80/HBO/index.m3u8
+#EXTINF:0 tvg-id="HBO 2" group-title="Filmes e Series", HBO 2
+http://playmovetv.from-id.com:80/HBO2/index.m3u8
+#EXTINF:0 tvg-id="HBO 2" group-title="Filmes e Series", HBO 2
+http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/364.ch
+#EXTINF:0 tvg-id="HBO Family" group-title="Filmes e Series", HBO Family
+http://playmovetv.from-id.com:80/HBOfamily/index.m3u8
+#EXTINF:0 tvg-id="HBO Signature" group-title="Filmes e Series", HBO Signature
+http://playmovetv.from-id.com:80/HBOsign/index.m3u8
+#EXTINF:0 tvg-id="HBO Signature" group-title="Filmes e Series", HBO Signature
+http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/363.ch
+#EXTINF:0 tvg-id="HBO Plus" group-title="Filmes e Series", HBO Plus
+http://playmovetv.from-id.com:80/HBOPlus/index.m3u8
+#EXTINF:0 tvg-id="Telecine Premium" group-title="Filmes e Series", Telecine Premium
+http://playmovetv.from-id.com:80/TC2/index.m3u8
+#EXTINF:0 tvg-id="Telecine Action" group-title="Filmes e Series", Telecine Action
+http://playmovetv.from-id.com:80/TC5/index.m3u8
+#EXTINF:0 tvg-id="Telecine Touch" group-title="Filmes e Series", Telecine Touch
+http://playmovetv.from-id.com:80/TC3/index.m3u8
+#EXTINF:0 tvg-id="Telecine Fun" group-title="Filmes e Series", Telecine Fun
+http://playmovetv.from-id.com:80/TC4/index.m3u8
+#EXTINF:0 tvg-id="Telecine Pipoca" group-title="Filmes e Series", Telecine Pipoca
+http://playmovetv.from-id.com:80/TC6/index.m3u8
+#EXTINF:0 tvg-id="Universal Channel" group-title="Filmes e Series", Universal Channel
+http://playmovetv.from-id.com:80/Universal/index.m3u8
+#EXTINF:0 tvg-id="Universal Channel" group-title="Filmes e Series", Universal Channel
+http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/357.ch
+#EXTINF:0 tvg-id="Space" group-title="Filmes e Series", Space
+http://playmovetv.from-id.com:80/Space/index.m3u8
+#EXTINF:0 tvg-id="Megapix" group-title="Filmes e Series", Megapix
+http://31.204.152.6:8081/live/megapix/playlist.m3u8
+#EXTINF:0 tvg-id="MAX" group-title="Filmes e Series", MAX
+http://playmovetv.from-id.com:80/max/index.m3u8
+#EXTINF:0 tvg-id="Max Prime" group-title="Filmes e Series", Max Prime
+http://playmovetv.from-id.com:80/MaxPrime/index.m3u8
+#EXTINF:0 tvg-id="Max Prime" group-title="Filmes e Series", Max Prime
+http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/380.ch
+#EXTINF:0 tvg-id="Max UP" group-title="Filmes e Series", Max UP
+http://playmovetv.from-id.com:80/MaxUp/index.m3u8
+#EXTINF:0 tvg-id="AXN" group-title="Filmes e Series", AXN
+http://playmovetv.from-id.com:80/AXN/index.m3u8
+#EXTINF:0 tvg-id="AXN" group-title="Filmes e Series", AXN
+http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/373.ch
+#EXTINF:0 tvg-id="AXN White"  group-title="Filmes e Series", AXN White
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/883.ts
+#EXTINF:0 tvg-id="AXN White"  group-title="Filmes e Series", AXN White
+http://94.23.193.185:8000/mmans100/mmans100/2191
+#EXTINF:0 tvg-id="Warner TV" group-title="Filmes e Series", Warner TV
+http://playmovetv.from-id.com:80/Warner/index.m3u8
+#EXTINF:0 tvg-id="FOX" group-title="Filmes e Series", FOX
+http://playmovetv.from-id.com:80/FOX/index.m3u8
+#EXTINF:0 tvg-id="FOX Movies HD"  group-title="Filmes e Series", FOX Movies HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/1182.ts
+#EXTINF:0 tvg-id="Canal Hollywood" group-title="Filmes e Series" tvg-logo="http://www.markify.com/images/ctm/originals/014637953.JPG", Canal Hollywood
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/889.ts
+#EXTINF:0 tvg-id="AMC" group-title="Filmes e Series", AMC
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE03.m3u8
+#EXTINF:0 tvg-id="AMC" group-title="Filmes e Series", AMC
+http://94.23.193.185:8000/mmans100/mmans100/2312
+#EXTINF:0 tvg-id="CinemaTvPlay" group-title="Filmes e Series", CinemaTvPlay
+http://servicioamerica.net:1935/cinematvplays/cinematvplays/chunklist_w1995939705.m3u8?token=yfU+kLqLqfZ31Yx5RgwFWADDQsAtzsn0JyAjDqCTXxRwvMGtx37LIVQo4lZqfP3TwZ6g0fs9MPq379+5bsFQ2fbTCNgZfX+5b3kujpkuCEOWlgC8Va2VBSkeUQLrGWnubuXDVIfwcmiXQA9Bp%2F%2FCePR8oSp3rXvGlAZnJRHEhps%3D%7CJu5jp+owWgLfUUCUo40DFq11rtqgA03rE0tVrZWyNss%3D.m3u8
+
+#EXTINF:0 tvg-id="FX" group-title="Variedades", FX
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL258/PROFILE03.m3u8
+#EXTINF:0 tvg-id="FX" group-title="Variedades", FX
+http://playmovetv.from-id.com:80/FX/index.m3u8
+#EXTINF:0 tvg-id="TLC" group-title="Variedades", TLC
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
+#EXTINF:0 tvg-id="Fox" group-title="Variedades", Fox
+http://31.204.152.6:8081/live/fox/playlist.m3u8
+#EXTINF:0 tvg-id="Fox HD" group-title="Variedades", Fox HD
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/887.ts
+#EXTINF:0 tvg-id="Fox HD" group-title="Variedades", Fox HD
+http://94.23.193.185:8000/mmans100/mmans100/2190
+
+#EXTINF:0 tvg-id="Nat Geo Wild" group-title="Documentarios", Nat Geo Wild
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/1195.ts
+#EXTINF:0 tvg-id="Nat Geo Wild" group-title="Documentarios", Nat Geo Wild
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
+#EXTINF:0 tvg-id="History Channel" group-title="Documentarios", History Channel
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
+#EXTINF:0 tvg-id="Discovery Channel" group-title="Documentarios", Discovery Channel
+http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1164.ts
+#EXTINF:0 tvg-id="Discovery Channel" group-title="Documentarios", Discovery Channel
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
+#EXTINF:0 tvg-id="Discovery World" group-title="Documentarios", Discovery World
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
+#EXTINF:0 tvg-id="Discovery Theater HD" group-title="Documentarios", Discovery Theater HD
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
+#EXTINF:0 tvg-id="Animal Planet" group-title="Documentarios", Animal Planet
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
+
+#EXTINF:0 tvg-id="Tooncast" group-title="Variedades", Tooncast
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
+#EXTINF:0 tvg-id="Comedy Central" group-title="Variedades", Comedy Central
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
+#EXTINF:0 tvg-id="TBS Very Funny" group-title="Variedades", TBS Very Funny
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
+#EXTINF:0 tvg-id="Sky Cinema HD" group-title="Variedades", Sky Cinema HD
+http://94.23.193.185:8000/mmans100/mmans100/1198
+#EXTINF:0 tvg-id="Sky Cinema 1" group-title="Variedades", Sky Cinema 1
+http://94.23.193.185:8000/mmans100/mmans100/582
+#EXTINF:0 tvg-id="Sky Uno HD" group-title="Variedades", Sky Uno HD
+http://94.23.193.185:8000/mmans100/mmans100/1196
+#EXTINF:0 tvg-id="Sky Cult HD" group-title="Variedades", Sky Cult HD
+http://94.23.193.185:8000/mmans100/mmans100/1199
+#EXTINF:0 tvg-id="Sky TG 24" group-title="Variedades", Sky TG 24
+http://1speed.dyndns.tv:8000/live/eros/eros/202.ts
