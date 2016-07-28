@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 Teste
 http://163.172.40.9:25461//streaming/clients_live.php?username=karimos.sat&password=idndigdgdg&stream=1611&extension=ts&hash=e1a1d8516e7dd51cb69472a6f19b883a&time=1469406546&pid=11601&external_device=&on_demand=0
-#EXTINF:0 tvg-id="Premiere Futebol Clube" tvg-logo="http://auvaromaia.com/wp-content/uploads/2016/01/PFC-.jpg" , Teste PFC
+#EXTINF:0 tvg-id="Premiere Futebol Clube" tvg-logo="http://auvaromaia.com/wp-content/uploads/2016/01/PFC-.jpg" group-title="Esporte" , Teste PFC
 http://falcon.ss-uk.ftgrm.me/pfc1/index_1800_av-b.m3u8
 #EXTINF:0 tvg-id="HD Media 3D" group-title="3D", HD Media 3D
 http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
@@ -123,6 +123,8 @@ http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/264.ts
 http://playmovetv.from-id.com:80/OFF/index.m3u8
 #EXTINF:0 tvg-id="SBT HD" group-title="TV Aberta BR", SBT HD
 http://gbbrlive2.sambatech.com.br/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/playlist.m3u8
+#EXTINF:0 group-title="TV Aberta BR", Band HD
+http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/playlist.m3u8
 #EXTINF:0 tvg-id="TV Globo" group-title="TV Aberta BR", Globo
 http://ptbrvirtual.no-ip.net:8000/live/iptvwordline@gmail.com/vslQGgoOWA/655.ts
 #EXTINF:0 tvg-id="Globo" group-title="TV Aberta BR", Globo
@@ -139,12 +141,23 @@ http://31.204.153.115:8081/live/sptvk/playlist.m3u8
 http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/366.ch
 #EXTINF:0 tvg-id="Record" group-title="TV Aberta BR", Record
 http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/359.ch
+http://31.204.152.6:8081/live/recordk/playlist.m3u8
+#EXTINF:0 tvg-id="RedeTV" group-title="TV Aberta BR", RedeTV!
+http://192.99.101.129:1935/rafael926/rafael926/playlist.m3u8
+#EXTINF:0 tvg-id="RedeTV" group-title="TV Aberta BR", RedeTV!
+http://evp.mm.uol.com.br/redetv1/_definst_/redetv1/playlist.m3u8
+#EXTINF:0 tvg-id="TV Gazeta" group-title="TV Aberta BR", TV Gazeta
+http://streaming50.sitehosting.com.br:1935/alternativa/alternativa/playlist.m3u8
+#EXTINF:0 tvg-id="Cancao Nova" group-title="TV Aberta BR", Cancao Nova
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
 #EXTINF:0 tvg-id="CBN" group-title="Noticias", CBN
 http://media.sgr.globo.com:1935/VideoCBN/cbnrj1.sdp/live.m3u8
 #EXTINF:0 tvg-id="Globo News" group-title="Noticias", Globo News
 http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/367.ch
 #EXTINF:0 tvg-id="Band News" group-title="Noticias", Band News
 http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/372.ch
+#EXTINF:0 tvg-id="Band News" group-title="Noticias", Record News
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/live.m3u8
 #EXTINF:0 tvg-id="TNT" group-title="Filmes e Series", TNT
 http://playmovetv.from-id.com:80/TNT/index.m3u8
 #EXTINF:0 tvg-id="TNT" group-title="Filmes e Series", TNT
@@ -257,3 +270,47 @@ http://94.23.193.185:8000/mmans100/mmans100/1196
 http://94.23.193.185:8000/mmans100/mmans100/1199
 #EXTINF:0 tvg-id="Sky TG 24" group-title="Variedades", Sky TG 24
 http://1speed.dyndns.tv:8000/live/eros/eros/202.ts
+#EXTINF:0 tvg-id="Disney Channel" group-title="Desenhos" , Disney Channel
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/1030.ts
+#EXTINF:0 tvg-id="Disney Channel" group-title="Desenhos" , Disney Channel
+http://31.204.152.6:8081/live/disney/playlist.m3u8
+#EXTINF:0 tvg-id="Disney Channel" group-title="Desenhos" , Disney Channel
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
+#EXTINF:0 tvg-id="Disney Junior" group-title="Desenhos", Disney Junior
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/1029.ts
+#EXTINF:0 tvg-id="Nickelodeon" group-title="Desenhos", Nickelodeon
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/1206.ts
+#EXTINF:0 tvg-id="Cartoon Network" group-title="Desenhos", Cartoon Network
+http://80.87.146.133:1111/udp/230.3.3.112:5678
+#EXTINF:0 tvg-id="Cartoon Network" group-title="Desenhos", Cartoon Network
+http://213.163.65.9:8081/live/cartoonk/playlist.m3u8
+#EXTINF:0 tvg-id="Cartoon Network" group-title="Desenhos", Cartoon Network
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/1204.ts
+#EXTINF:0 tvg-id="Cartoon Network" group-title="Desenhos", Cartoon Network
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8
+#EXTINF:0 group-title="Lancamentos", O Quarto de Jack
+https://docs.google.com/file/d/0BxzGJ35v79VYVFhRS1NuNW9PSlk/view
+#EXTINF:0 group-title="Lancamentos", Zootopia
+https://docs.google.com/file/d/0BxzGJ35v79VYamtYeVN1VlN5V1E/view
+#EXTINF:0 group-title="Series", Mr Robot S01E01
+http://vidzi.tv/a1fayq8np6kh.html
+#EXTINF:0 group-title="Series", Mr Robot S01E01
+http://vidzi.tv/a1fayq8np6kh.html
+#EXTINF:0 group-title="Series", Mr Robot S01E02
+http://vidzi.tv/woifeloo7ftm.html
+#EXTINF:0 group-title="Series", Mr Robot S01E03
+http://vidzi.tv/04prmmphkhlr.html
+#EXTINF:0 group-title="Series", Mr Robot S01E04
+http://vidzi.tv/qbweawr9faqu.html
+#EXTINF:0 group-title="Series", Mr Robot S01E05
+http://vidzi.tv/eu0y5me7mlyd.html
+#EXTINF:0 group-title="Series", Mr Robot S01E06
+http://vidzi.tv/0eoqejv57zqj.html
+#EXTINF:0 group-title="Series", Mr Robot S01E07
+http://vidzi.tv/5vkbuu2wyn3v.html
+#EXTINF:0 group-title="Series", Mr Robot S01E08
+http://vidzi.tv/yyocsd1olvq8.html
+#EXTINF:0 group-title="Series", Mr Robot S01E09
+http://vidzi.tv/i87l554axk0v.html
+#EXTINF:0 group-title="Series", Mr Robot S01E10
+http://vidzi.tv/s145g1t8uaki.html
