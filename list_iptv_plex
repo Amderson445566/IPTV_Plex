@@ -139,14 +139,12 @@ http://31.204.153.115:8081/live/sptvk/playlist.m3u8
 http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/366.ch
 #EXTINF:0 tvg-id="Record" group-title="TV Aberta BR", Record
 http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/359.ch
-
 #EXTINF:0 tvg-id="CBN" group-title="Noticias", CBN
 http://media.sgr.globo.com:1935/VideoCBN/cbnrj1.sdp/live.m3u8
 #EXTINF:0 tvg-id="Globo News" group-title="Noticias", Globo News
 http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/367.ch
 #EXTINF:0 tvg-id="Band News" group-title="Noticias", Band News
 http://zial.dyndns.tv:8000/alexmallchino/alexmallchino/372.ch
-
 #EXTINF:0 tvg-id="TNT" group-title="Filmes e Series", TNT
 http://playmovetv.from-id.com:80/TNT/index.m3u8
 #EXTINF:0 tvg-id="TNT" group-title="Filmes e Series", TNT
@@ -215,7 +213,6 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE03.m3u8
 http://94.23.193.185:8000/mmans100/mmans100/2312
 #EXTINF:0 tvg-id="CinemaTvPlay" group-title="Filmes e Series", CinemaTvPlay
 http://servicioamerica.net:1935/cinematvplays/cinematvplays/chunklist_w1995939705.m3u8?token=yfU+kLqLqfZ31Yx5RgwFWADDQsAtzsn0JyAjDqCTXxRwvMGtx37LIVQo4lZqfP3TwZ6g0fs9MPq379+5bsFQ2fbTCNgZfX+5b3kujpkuCEOWlgC8Va2VBSkeUQLrGWnubuXDVIfwcmiXQA9Bp%2F%2FCePR8oSp3rXvGlAZnJRHEhps%3D%7CJu5jp+owWgLfUUCUo40DFq11rtqgA03rE0tVrZWyNss%3D.m3u8
-
 #EXTINF:0 tvg-id="FX" group-title="Variedades", FX
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL258/PROFILE03.m3u8
 #EXTINF:0 tvg-id="FX" group-title="Variedades", FX
@@ -228,7 +225,6 @@ http://31.204.152.6:8081/live/fox/playlist.m3u8
 http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/887.ts
 #EXTINF:0 tvg-id="Fox HD" group-title="Variedades", Fox HD
 http://94.23.193.185:8000/mmans100/mmans100/2190
-
 #EXTINF:0 tvg-id="Nat Geo Wild" group-title="Documentarios", Nat Geo Wild
 http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/1195.ts
 #EXTINF:0 tvg-id="Nat Geo Wild" group-title="Documentarios", Nat Geo Wild
@@ -245,7 +241,6 @@ http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
 #EXTINF:0 tvg-id="Animal Planet" group-title="Documentarios", Animal Planet
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
-
 #EXTINF:0 tvg-id="Tooncast" group-title="Variedades", Tooncast
 http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
 #EXTINF:0 tvg-id="Comedy Central" group-title="Variedades", Comedy Central
