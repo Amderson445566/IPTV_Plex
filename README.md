@@ -4,9 +4,12 @@ Lista - https://raw.githubusercontent.com/leuthier/IPTV_Plex/master/list_iptv_pl
 
 ####Quais tipos de canais a lista contém?
 - [x] Esportes
-- [x] TV Aberta
-- [x] Notícias
 - [x] Filmes
+- [x] TV Aberta (BR)
+- [x] Notícias
+- [x] Documentários
+- [x] Variedades
+- [x] 3D
 - [ ] Desenhos 
 - [ ] Adulto
 
@@ -16,7 +19,7 @@ Por favor, leia aqui -em Inglês- [Introdução Plex & IPTV] (https://github.com
 
 ####A fazer:
 - [x] Corrigir os nomes dos canais
-- [ ] Separar por Grupos/Categorias
+- [x] Separar por Grupos/Categorias
 - [ ] Adicionar o Logo dos canais
 - [ ] Guia de Programação
 
@@ -31,3 +34,4 @@ Tutorial: http://imgur.com/a/YmAaX
 
 ######Based IPTV List: http://pastebin.com/raw/SSBUfnjy
 ######Official Plex Plugins: https://github.com/plexinc-plugins
+######XMLTV Programmer Guide: https://sourceforge.net/projects/xmltv/
