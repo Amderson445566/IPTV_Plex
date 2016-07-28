@@ -12,7 +12,7 @@
 
 
 Lista - https://raw.githubusercontent.com/leuthier/IPTV_Plex/master/list_iptv_plex
-> A lista é e sempre será gratuita. Ajude-nos a manter atualizada
+###### > A lista é e sempre será gratuita! Ajude-nos a mantê-la atualizada. :)
 
 ####Quais tipos de canais a lista contém?
 - [x] Esportes
