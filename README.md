@@ -1,5 +1,15 @@
 ##IPTV List for Plex Media Server [plugin IPTV](https://github.com/Cigaras/IPTV.bundle)
 
+1. [Lista Base](https://github.com/leuthier/IPTV_Plex/blob/master/README.md#based-iptv-list-httppastebincomrawssbufnjy)
+2. [A fazer](https://github.com/leuthier/IPTV_Plex/blob/master/README.md#a-fazer)
+3. Dúvidas
+   * [Quais tipos de canais a lista contém?](https://github.com/leuthier/IPTV_Plex/blob/master/README.md#quais-tipos-de-canais-a-lista-contém)
+   * [Colocar o plugin de IPTV -não oficial- no Plex](https://github.com/leuthier/IPTV_Plex/blob/master/README.md#colocar-o-plugin-de-iptv-no-plex)
+   * [Adicionar playlist no IPTV Channel](https://github.com/leuthier/IPTV_Plex/blob/master/README.md#adicionar-playlist-no-iptv-channel)
+   * [O que é Plex? O que é IPTV?](https://github.com/leuthier/IPTV_Plex/blob/master/README.md#o-que-é-plex-o-que-é-iptv)<br><br>
+   
+
+
 Lista - https://raw.githubusercontent.com/leuthier/IPTV_Plex/master/list_iptv_plex
 
 ####Quais tipos de canais a lista contém?
