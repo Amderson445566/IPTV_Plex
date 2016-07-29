@@ -32,7 +32,7 @@ Por favor, leia aqui -em Inglês- [Introdução Plex & IPTV] (https://github.com
 ####A fazer:
 - [x] Corrigir os nomes dos canais
 - [x] Separar por Grupos/Categorias
-- [ ] Adicionar o Logo dos canais
+- [x] Adicionar o Logo dos canais - Obrigado [Marcos Isocram](marcosisocram@gmail.com)
 - [ ] Guia de Programação<br><br>
 
 
